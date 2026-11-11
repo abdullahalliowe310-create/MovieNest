@@ -1,0 +1,30 @@
+a.nav-link {
+    color: white;
+}
+a.nav-link:hover {
+    color: yellow;
+}
+a.nav-link:active {
+    color: yellow;
+}
+a.nav-link:last-child {
+    border: 2px solid gold;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: gold;
+    color: black;
+    margin-left: auto;
+     transition: ease-in-out;
+
+}
+a.nav-link:last-child:hover {
+    background-color: darkblue;
+    transform: scale(1.5s);
+   
+}
+.carousel-item img {
+    min-height: 400px;
+    height: 600px;
+    width: 100%;
+    object-fit: cover;
+}
