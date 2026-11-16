@@ -19,7 +19,7 @@ function Header() {
             <Nav.Link href="/movie details">Movie details</Nav.Link>
             <Nav.Link href="/contact">Contact</Nav.Link>
             <Nav.Link href="/services">Services</Nav.Link>  
-             <Nav.Link href="/book tickets">Book Tickets</Nav.Link>
+             <button>Book Tickets</button>
        
           </Nav>
         </Navbar.Collapse>
