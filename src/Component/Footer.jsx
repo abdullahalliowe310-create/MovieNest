@@ -41,7 +41,7 @@ const Footer = () => {
 <h5>Explore</h5>
 <Nav>
 <Nav.Link href="/food and drinks">Food and Drinks</Nav.Link>
-<Nav.Link href="/about us">About us</Nav.Link>
+<Nav.Link href="/about us">About us/info</Nav.Link>
 <Nav.Link href="/contact us">Contact us</Nav.Link>
 <Nav.Link href="/my account">My Account</Nav.Link>
 <Nav.Link href="/my bookings">My bookings</Nav.Link>
@@ -62,6 +62,7 @@ const Footer = () => {
         <h5>Follow us</h5>
         <Nav>
         <Nav.Link href="/facebook"> <i class="fa-brands fa-facebook"></i>Facebook</Nav.Link> <br />
+        
 <Nav.Link href="/instagram"><i class="fa-brands fa-instagram"></i>Instagram</Nav.Link>
 <Nav.Link href="/x(twitter)"><i class="fa-brands fa-x-twitter"></i>X(Twitter)</Nav.Link>
 <Nav.Link href="/Youtube"><i class="fa-brands fa-youtube"></i>Youtube</Nav.Link>
@@ -74,7 +75,7 @@ const Footer = () => {
 
       <Row className='border-top border-secondary mt-5 py-4'>
         <Col>
-        <h3>Stay Updated with Cine-Verse</h3>
+        <h3>Stay Updated with MovieNest</h3>
         <p>Get the latest movie releases, exclusive offers and cinema updartes delivered to Your inbox</p>
         </Col>
         <Col>
