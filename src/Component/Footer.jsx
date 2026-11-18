@@ -76,7 +76,7 @@ const Footer = () => {
       <Row className='border-top border-secondary mt-5 py-4'>
         <Col>
         <h3>Stay Updated with MovieNest</h3>
-        <p>Get the latest movie releases, exclusive offers and cinema updartes delivered to Your inbox</p>
+        <p>Get the latest movie releases, exclusive offers and cinema updates delivered to Your inbox</p>
         </Col>
         <Col>
         <Form>

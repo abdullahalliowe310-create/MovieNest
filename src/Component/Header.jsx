@@ -5,7 +5,7 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 
 function Header() {
   return (
-    <Navbar expand="lg" className="bg-black">
+    <Navbar expand="lg" className="bg-black" sticky="top">
       <Container>
         <Navbar.Brand href="#home">
           <img src="/mili.jpg" alt="" height="60px" />
