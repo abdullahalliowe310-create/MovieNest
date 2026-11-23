@@ -62,7 +62,7 @@ const movies = [
           <Container>
 <div>
  
-  <h1>Coming Soon</h1>
+  <h1 className='miki'>Coming Soon</h1>
 </div>
 
 
