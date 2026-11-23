@@ -94,7 +94,7 @@ const movies = [
           <Container>
 <div>
   <p>Experience the Magik</p>
-  <h2>Now Showing</h2>
+  <h2 className='mili'>Now Showing</h2>
 </div>
 
 

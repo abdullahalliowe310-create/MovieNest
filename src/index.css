@@ -117,3 +117,13 @@ object-fit: contain;
     flex-grow: 0;
     
 }
+#basic-nav-dropdown{
+    color: white;
+}
+#basic-nav-dropdown:hover{
+    color: gold;
+}
+.mili {
+    padding: 30px;
+    margin: 0px;
+}

@@ -61,11 +61,11 @@ const Footer = () => {
         <Col>
         <h5>Follow us</h5>
         <Nav>
-        <Nav.Link href="/facebook"> <i class="fa-brands fa-facebook"></i>Facebook</Nav.Link> <br />
+        <Nav.Link href="https://www.facebook.com/filmoneng/" target='-blank'> <i class="fa-brands fa-facebook"></i>Facebook</Nav.Link> <br />
         
-<Nav.Link href="/instagram"><i class="fa-brands fa-instagram"></i>Instagram</Nav.Link>
-<Nav.Link href="/x(twitter)"><i class="fa-brands fa-x-twitter"></i>X(Twitter)</Nav.Link>
-<Nav.Link href="/Youtube"><i class="fa-brands fa-youtube"></i>Youtube</Nav.Link>
+<Nav.Link href="https://www.instagram.com/filmoneng/" target='-blank'><i class="fa-brands fa-instagram"></i>Instagram</Nav.Link>
+<Nav.Link href="/https://x.com/filmone" target='-blank'><i class="fa-brands fa-x-twitter"></i>X(Twitter)</Nav.Link>
+<Nav.Link href="https://www.youtube.com/filmhouse" target='-blank'><i class="fa-brands fa-youtube"></i>Youtube</Nav.Link>
 </Nav>
         </Col>
         
