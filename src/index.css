@@ -1,5 +1,6 @@
 body{
     background-color: #19132B;
+    color: white;
 }
 a.nav-link {
     color: white;
@@ -80,6 +81,7 @@ object-fit: contain;
     height: 100%;
     opacity: 0;
     padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .movie-card:hover .movie-overlay {
@@ -130,4 +132,14 @@ object-fit: contain;
 .miki {
     padding: 30px;
     margin: 0px;
+}
+.page-banner{
+    width: 100%;
+    min-height: 350px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    position: relative;
+    color: white;
 }

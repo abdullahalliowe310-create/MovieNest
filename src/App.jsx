@@ -9,6 +9,16 @@ import Cinema from './Pages/Cinema'
 import Services from './Pages/Services'
 import BookTickets from './Pages/BookTickets'
 import ShowTime from './Pages/ShowTime'
+import HelpCenter from './Pages/HelpCenter'
+import Faqs from './Pages/Faqs'
+import Bookings from './Pages/Bookings'
+import Contact from './Pages/Contact'
+import Food from './Pages/Food'
+import CinemaLocation from './Pages/CinemaLocation'
+import About from './Pages/About'
+import Account from './Pages/Account'
+import Cancellation from './Pages/Cancellation'
+import Bookingtickets from './Pages/Bookingtickets'
 
 const App = () => {
   return (
@@ -22,6 +32,16 @@ const App = () => {
     <Route path='/services' element={<Services />} />
     <Route path='/booktickets' element={<BookTickets />} />
     <Route path='/showtime' element={<ShowTime />} />
+    <Route path='/helpcenter' element={<HelpCenter />} />
+    <Route path='/FAQs' element={<Faqs />} />
+    <Route path='/Bookings' element={<Bookings />} />
+    <Route path='/foods' element={<Food />} />
+    <Route path='/contact' element={<Contact />} />
+    <Route path='/about' element={<About />} />
+    <Route path='/badagry' element={<CinemaLocation />} />
+    <Route path='/cancellation' element={<Cancellation />} />
+    <Route path='/account' element={<Account />} />
+    <Route path='/bookey' element={<Bookingtickets />} />
 
    </Routes>
    <Footer />

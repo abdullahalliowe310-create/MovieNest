@@ -24,15 +24,15 @@ const Footer = () => {
         <Col>
         <h5>Quick Links</h5>
 <Nav>
-         <Nav.Link href="/home">Home/Discovery</Nav.Link> 
+         <Nav.Link href="/">Home/Discovery</Nav.Link> 
 
-          <Nav.Link href="/coming soon">Coming Soon</Nav.Link>
+          <Nav.Link href="/comingsoon">Coming Soon</Nav.Link>
 
-           <Nav.Link href="/now showing">Now Showing</Nav.Link>
+           <Nav.Link href="/nowshowing">Now Showing</Nav.Link>
 
-            <Nav.Link href="/cinema location">Cinema Location</Nav.Link>
+            <Nav.Link href="/badagry">Cinema Location</Nav.Link>
 
-             <Nav.Link href="/showtimes">Showtimes</Nav.Link>
+             <Nav.Link href="/showtime">Showtimes</Nav.Link>
 </Nav>
         </Col>
 
@@ -40,21 +40,21 @@ const Footer = () => {
         <Col>
 <h5>Explore</h5>
 <Nav>
-<Nav.Link href="/food and drinks">Food and Drinks</Nav.Link>
-<Nav.Link href="/about us">About us/info</Nav.Link>
-<Nav.Link href="/contact us">Contact us</Nav.Link>
-<Nav.Link href="/my account">My Account</Nav.Link>
-<Nav.Link href="/my bookings">My bookings</Nav.Link>
+<Nav.Link href="/foods">Food and Drinks</Nav.Link>
+<Nav.Link href="/about">About us/info</Nav.Link>
+<Nav.Link href="/contact">Contact us</Nav.Link>
+<Nav.Link href="/account">My Account</Nav.Link>
+<Nav.Link href="/Bookings">My bookings</Nav.Link>
 </Nav>
         </Col>
 
         <Col>
         <h5>Support</h5>
         <Nav>
-        <Nav.Link href="/help center">Help Center/Services</Nav.Link>
+        <Nav.Link href="/helpcenter">Help Center/Services</Nav.Link>
 <Nav.Link href="/FAQs">FAQs</Nav.Link>
-<Nav.Link href="/booking assistance">Booking Assistance</Nav.Link>
-<Nav.Link href="/cancellation policy">Cancellation Policy</Nav.Link>
+<Nav.Link href="/Bookings">Booking Assistance</Nav.Link>
+<Nav.Link href="/cancellation">Cancellation Policy</Nav.Link>
 </Nav>
         </Col>
 

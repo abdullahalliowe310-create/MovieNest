@@ -33,6 +33,7 @@ const MovieCard = ({ movie }) => {
   <div className='channel'>
     <span>⏱️ {movie.duration}</span> | 
     <span>{movie.rating}</span>
+    <span>{movie.trailer}</span>
   </div>
   
   <div className='text-center border-top border-secondary mt-0 py-3 '>

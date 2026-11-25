@@ -7,7 +7,7 @@ function Header() {
   return (
     <Navbar expand="lg" className="bg-black" sticky="top">
       <Container>
-        <Navbar.Brand href="#home">
+        <Navbar.Brand href="/">
           <img src="/mili.jpg" alt="" height="60px" />
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -24,7 +24,7 @@ function Header() {
               </NavDropdown.Item>
               
             </NavDropdown> 
-             <button>Book Tickets</button>
+             <button href="/Booking">Book Tickets</button>
        
           </Nav>
         </Navbar.Collapse>
