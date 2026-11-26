@@ -17,6 +17,7 @@ function Header() {
             <Nav.Link href="/cinema">Cinemas</Nav.Link>
             <Nav.Link href="/showtime">Showtime</Nav.Link>
             <Nav.Link href="/services">Services</Nav.Link> 
+            <Nav.Link href="/About">About Us</Nav.Link> 
             <NavDropdown title="Movies" id="basic-nav-dropdown">
               <NavDropdown.Item href="nowshowing">Now showing</NavDropdown.Item>
               <NavDropdown.Item href="comingsoon">

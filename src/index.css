@@ -27,9 +27,9 @@ button {
 footer {
     padding: 20px;
 }
-.container-fluid img {
+.ini {
     
-    height: 100px;
+  height: 100px;  
 }
 .row  {
     justify-content: space-between;
@@ -142,4 +142,151 @@ object-fit: contain;
     align-items: center;
     position: relative;
     color: white;
+}
+
+
+.mission-icon {
+    background: #101b3a;
+    color: white;
+    width: 65px;
+    height: 65px;
+    min-width: 65px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+.mission-line {
+    width: 4px;
+    height: 65px;
+    background: #ffcc00;
+}
+
+.mission h4 {
+    color: #101b3a;
+    font-weight: bold;
+}
+
+.mission p {
+    font-size: 13px;
+    margin-bottom: 0;
+    line-height: 1.5;
+}
+
+.choose {
+    background: #080d20;
+    color: white;
+    padding: 40px 25px;
+    text-align: center;
+    background-image: linear-gradient(rgba(0,0,0,0.85), rgba(0,0,0,0.85)),
+    url("https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=1200");
+    background-size: cover;
+    background-position: center;
+}
+
+.choose h2 {
+    font-size: 32px;
+    margin-bottom: 25px;
+    color: white;
+}
+
+.choose span {
+    color: #ffcc00;
+}
+
+.choose-box {
+    display: flex;
+    gap: 15px;
+}
+
+.box {
+    flex: 1;
+    padding: 20px 12px;
+    border: 1px solid orange;
+    border-radius: 15px;
+    background: rgba(0,0,0,0.6);
+    box-shadow: 0 0 8px orange;
+}
+
+.box h3 {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.box h4 {
+    font-size: 17px;
+    margin-bottom: 12px;
+}
+
+.box p {
+    font-size: 13px;
+    line-height: 1.5;
+    color: #eee;
+}
+.promise {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 7%;
+    min-height: 230px;
+    color: white;
+
+    background:
+    linear-gradient(to right, rgba(80, 0, 0, 0.758), rgba(0,0,20,0.65)),
+    url("https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1400");
+
+    background-size: cover;
+    background-position: center;
+}
+
+.promise-text {
+    width: 60%;
+}
+
+.promise-text h2 {
+    color: #ffcc00;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+.promise-text p {
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+.promise-text h3 {
+    font-size: 21px;
+    font-style: italic;
+    margin-top: 15px;
+}
+
+.promise-text span {
+    color: #ffcc00;
+}
+
+.promise-brand {
+    text-align: center;
+}
+
+.promise-brand h1 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.promise-brand h4 {
+    color: #ffcc00;
+    letter-spacing: 5px;
+    font-size: 13px;
+}
+
+.promise-brand p {
+    background: #ffcc00;
+    color: black;
+    padding: 9px 15px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 15px;
 }

@@ -3,7 +3,7 @@ import { Container } from 'react-bootstrap'
 
 const PageBanner = ({title, subtitle, backgroundImage}) => {
   return (
-   <section className='page-banner' style={{ backgroundImage: `linear-gradient(to left, #0000ff6a, #000000af), url(${backgroundImage})`}}>
+   <section className='page-banner' style={{ backgroundImage: `linear-gradient(to left, #0000ff35, #000000af), url(${backgroundImage})`}}>
 
 
         <Container>

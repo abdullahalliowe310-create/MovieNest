@@ -1,7 +1,8 @@
 import { useState } from 'react'
-import Slider from '../Component/Slider'
-import NowShowing from '../Component/NowShowing'
-import ComingSoon from '../Component/ComingSoon'
+
+import NowShowing from '../Component/home/NowShowing'
+import ComingSoon from '../Component/home/ComingSoon'
+import Slider from '../Component/home/Slider'
 
 
 function Home() {
@@ -10,7 +11,7 @@ function Home() {
   return (
     <>
      
-      <Slider/>
+      <Slider />
       <NowShowing/>
       <ComingSoon/>
       

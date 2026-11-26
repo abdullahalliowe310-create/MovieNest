@@ -1,12 +1,12 @@
 import Carousel from 'react-bootstrap/Carousel';
-import superman from "../assets/Slider/superman.jpeg"
-import Whalefall from "../assets/Slider/Whalefall.webp"
-import Fighter from "../assets/Slider/Fighter.webp"
-import spiderman from "../assets/Slider/spiderman.jpeg"
-import Evil from "../assets/Slider/Evil.webp"
-import Doomsday from "../assets/Slider/Doomsday.webp"
-import lupin from "../assets/Slider/lupin.jpeg"
-import dc from "../assets/Slider/dc.jpeg"
+import superman from "../../assets/Slider/superman.jpeg"
+import Whalefall from "../../assets/Slider/Whalefall.webp"
+import Fighter from "../../assets/Slider/Fighter.webp"
+import spiderman from "../../assets/Slider/spiderman.jpeg"
+import Evil from "../../assets/Slider/Evil.webp"
+import Doomsday from "../../assets/Slider/Doomsday.webp"
+import lupin from "../../assets/Slider/lupin.jpeg"
+import dc from "../../assets/Slider/dc.jpeg"
 
 
 

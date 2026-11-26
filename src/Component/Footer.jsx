@@ -15,7 +15,7 @@ const Footer = () => {
       <Row>
 
         <Col>
-        <img src={mimi} alt="" />
+        <img src={mimi} alt="" className='ini'/>
         <p>Escape Reality, Enter the World of Cinema</p>
         <p>Your destination for unforgettable cinema experience. Discover the latest blockbusters, book your favourite seats, and enjoy entertainment across Nigeria</p>
 
